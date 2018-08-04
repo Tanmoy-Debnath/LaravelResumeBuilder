@@ -1,0 +1,45 @@
+.invoice{
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bold;
+    line-height: -1px;
+}
+.name1{
+    line-height: 1px;
+}
+
+.f2{
+    text-align: right;
+    margin-right: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+    text-decoration-color: #6c757d;
+}
+.f3{
+    line-height: 1.5px;
+}
+.d2{
+    margin-top: 7%;
+}
+.t1{
+    font-size: 13px;
+}
+
+table td{
+    text-align: center;
+    padding: 20px;
+}
+
+table th{
+    text-align: center;
+
+}
+.pl{
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: -7px;
+    margin-top: 10%;
+}
+
+

@@ -1,0 +1,19 @@
+body{
+    background-image: url("desk-blur.jpg");
+    margin: 0;
+    padding: 0;
+
+}
+#td{
+    margin-top: 20%;
+}
+.pnew{
+    font-family: 'Galada', cursive;
+    font-size: 30px;
+}
+.head{
+    font-family: 'Chonburi', cursive;
+}
+.gf1{
+    font-family: 'Chonburi', cursive;
+}

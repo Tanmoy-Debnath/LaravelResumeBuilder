@@ -1,0 +1,132 @@
+body{
+	background-color: black;
+	font-family: "Montserrat", sans-serif
+}
+#marg{
+	margin-left: 13%;
+	margin-right: 13%;
+}
+.t1{
+	color: white;
+	font-size: 55px;
+	text-align: center;
+}
+.t2{
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	margin-top: -35px;
+}
+.t3{
+	height: 80%;
+	width: 60%;
+    margin-left: 20%;
+    border-radius: 50%;
+}
+.t4{
+	color: white;
+	font-size: 25px;
+}
+.t5{
+	
+	margin-right: 85%;
+	margin-top: -10px;
+	color: grey;
+}
+.p6{
+	color: grey;
+	font-size: 18px;
+}
+.p7{
+	color: white;
+	font-size: 25px;
+}
+
+.container {
+    width: 100%; 
+    background-color: #ddd; 
+}
+
+.skills {
+    text-align: right; 
+    padding-right: 20px; 
+    line-height: 40px; 
+    color: white; 
+}
+
+.html {width: 90%; background-color: #808080;} 
+.css {width: 90%; background-color: #808080;} 
+.js {width: 65%; background-color: #808080;} 
+.php {width: 60%; background-color: #808080;} 
+
+.t6{
+    margin-right: 78%;
+	margin-top: -10px;
+	color: grey;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 32px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+   
+}
+
+.fa{
+  background: white;
+  color: black;
+
+}
+
+hr.tr7{
+	margin-right: 85%;
+	margin-top: -10px;
+	color: grey;
+}
+p.p8{
+	font-size: 20px;
+	color: grey;
+}
+#tab{
+	margin-left: -4%;
+}
+.l1{
+	height: 40px;
+	width:95%;
+	font-size: 17px;
+	margin-bottom: 10px;
+	padding: 5px;
+	border-radius: 3px;
+}
+.b1{
+	height: 50px;
+	width:20%;
+	margin-bottom: 10px;
+	cursor: pointer;
+	font-size: 15px;
+
+
+
+}
+.f1{
+	color: grey;
+	text-align: center;
+	font-size: 15px;
+}
+.p11{
+	font-size: 20px;
+	color: black;
+}
+.send:hover{
+	background-color: black;
+	color: white;
+}
+
